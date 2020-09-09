@@ -1,0 +1,17 @@
+﻿source,type,owner,url
+批踢踢,crawler,wushansj,http://linxta-elk01:5601/goto/0a961a2730bb1a19b057b360d557a223
+中國時報,crawler,wushansj,http://linxta-elk01:5601/goto/399c0711688a13943212ce2b66514276
+自由時報,crawler,wushansj,http://linxta-elk01:5601/goto/368b3707d4a90807a976a64e4bbc25a3
+經濟日報,crawler,wushansj,http://linxta-elk01:5601/goto/4816ab16242dbaf6ddc2beb5011bdb5f
+蘋果日報,crawler,wushansj,http://linxta-elk01:5601/goto/da4a67e8c5e32bac224773edbd0e0a41
+Mobile01,crawler,wushansj,
+meltwater,crawler,wengken,http://linxta-elk01:5601/goto/120a513ee5693145756b499bd32d834e
+鉅亨網,crawler,wushansj,http://linxta-elk01:5601/goto/24065da0be811b316c8768494c38d780
+Amazon,crawler,leeyun,http://linxta-elk01:5601/goto/f6427b5ecdcafa030ddb784389ebc9c9
+IG,api,yuanken,
+GA,api,wushansj,
+FB,api,yuanken,
+YouTube,crawler,wengken,http://linxta-elk01:5601/goto/708c5397ce7ae59d1509419ae530f8ca
+Kakaku,crawler,leeyun,http://linxta-elk01:5601/goto/dd2068d3a3641915ed39f5cf06d4f6ae
+5ch,crawler,leeyun,http://linxta-elk01:5601/goto/496a26f74d9f19137ea7f001529c3dbe
+京東,crawler,wengken,http://linxta-elk01:5601/goto/5c0320ec0f11aa90307ed214b0d088dd
